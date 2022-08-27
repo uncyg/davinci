@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<advanced_emulator_launcher version="1">
+<control>
+  <update_timestamp>1631351759.2435455</update_timestamp>
+</control>
+<launcher>
+  <id>Firefox</id>
+  <m_name>Firefox</m_name>
+  <m_year />
+  <m_genre />
+  <m_developer />
+  <m_rating />
+  <m_plot />
+  <platform>Unknown</platform>
+  <categoryID>root_category</categoryID>
+  <application>/home/leonardo/davinci/bin/suspend-parent-and-spawn.sh</application>
+  <args>/usr/bin/firefox</args>
+  <rompath />
+  <romext />
+  <romextrapath />
+  <finished>False</finished>
+  <toggle_window>False</toggle_window>
+  <non_blocking>False</non_blocking>
+  <multidisc>True</multidisc>
+  <roms_base_noext />
+  <audit_state>Audit OFF</audit_state>
+  <audit_auto_dat_file />
+  <audit_custom_dat_file />
+  <audit_display_mode>All ROMs</audit_display_mode>
+  <launcher_display_mode>Flat mode</launcher_display_mode>
+  <num_roms>0</num_roms>
+  <num_parents>0</num_parents>
+  <num_clones>0</num_clones>
+  <num_have>0</num_have>
+  <num_miss>0</num_miss>
+  <num_unknown>0</num_unknown>
+  <num_extra>0</num_extra>
+  <timestamp_launcher>1631351759.243491</timestamp_launcher>
+  <timestamp_report>0.0</timestamp_report>
+  <default_icon>s_icon</default_icon>
+  <default_fanart>s_fanart</default_fanart>
+  <default_banner>s_banner</default_banner>
+  <default_poster>s_poster</default_poster>
+  <default_clearlogo>s_clearlogo</default_clearlogo>
+  <default_controller>s_controller</default_controller>
+  <Asset_Prefix />
+  <s_icon />
+  <s_fanart />
+  <s_banner />
+  <s_poster />
+  <s_clearlogo />
+  <s_controller />
+  <s_trailer />
+  <roms_default_icon>s_boxfront</roms_default_icon>
+  <roms_default_fanart>s_fanart</roms_default_fanart>
+  <roms_default_banner>s_banner</roms_default_banner>
+  <roms_default_poster>s_flyer</roms_default_poster>
+  <roms_default_clearlogo>s_clearlogo</roms_default_clearlogo>
+  <ROM_asset_path />
+  <path_3dbox />
+  <path_title />
+  <path_snap />
+  <path_boxfront />
+  <path_boxback />
+  <path_cartridge />
+  <path_fanart />
+  <path_banner />
+  <path_clearlogo />
+  <path_flyer />
+  <path_map />
+  <path_manual />
+  <path_trailer />
+</launcher>
+<launcher>
+  <id>Netflix</id>
+  <m_name>Netflix</m_name>
+  <m_year />
+  <m_genre />
+  <m_developer />
+  <m_rating />
+  <m_plot />
+  <platform>Unknown</platform>
+  <categoryID>root_category</categoryID>
+  <application>/usr/bin/firefox</application>
+  <args>--kiosk http://www.netflix.com</args>
+  <rompath />
+  <romext />
+  <romextrapath />
+  <finished>False</finished>
+  <toggle_window>False</toggle_window>
+  <non_blocking>False</non_blocking>
+  <multidisc>True</multidisc>
+  <roms_base_noext />
+  <audit_state>Audit OFF</audit_state>
+  <audit_auto_dat_file />
+  <audit_custom_dat_file />
+  <audit_display_mode>All ROMs</audit_display_mode>
+  <launcher_display_mode>Flat mode</launcher_display_mode>
+  <num_roms>0</num_roms>
+  <num_parents>0</num_parents>
+  <num_clones>0</num_clones>
+  <num_have>0</num_have>
+  <num_miss>0</num_miss>
+  <num_unknown>0</num_unknown>
+  <num_extra>0</num_extra>
+  <timestamp_launcher>1631351759.243491</timestamp_launcher>
+  <timestamp_report>0.0</timestamp_report>
+  <default_icon>s_icon</default_icon>
+  <default_fanart>s_fanart</default_fanart>
+  <default_banner>s_banner</default_banner>
+  <default_poster>s_poster</default_poster>
+  <default_clearlogo>s_clearlogo</default_clearlogo>
+  <default_controller>s_controller</default_controller>
+  <Asset_Prefix />
+  <s_icon />
+  <s_fanart />
+  <s_banner />
+  <s_poster />
+  <s_clearlogo />
+  <s_controller />
+  <s_trailer />
+  <roms_default_icon>s_boxfront</roms_default_icon>
+  <roms_default_fanart>s_fanart</roms_default_fanart>
+  <roms_default_banner>s_banner</roms_default_banner>
+  <roms_default_poster>s_flyer</roms_default_poster>
+  <roms_default_clearlogo>s_clearlogo</roms_default_clearlogo>
+  <ROM_asset_path />
+  <path_3dbox />
+  <path_title />
+  <path_snap />
+  <path_boxfront />
+  <path_boxback />
+  <path_cartridge />
+  <path_fanart />
+  <path_banner />
+  <path_clearlogo />
+  <path_flyer />
+  <path_map />
+  <path_manual />
+  <path_trailer />
+</launcher>
+<launcher>
+  <id>appletv</id>
+  <m_name>Apple TV</m_name>
+  <m_year />
+  <m_genre />
+  <m_developer />
+  <m_rating />
+  <m_plot />
+  <platform>Unknown</platform>
+  <categoryID>root_category</categoryID>
+  <application>/usr/bin/firefox</application>
+  <args>--kiosk http://tv.apple.com</args>
+  <rompath />
+  <romext />
+  <romextrapath />
+  <finished>False</finished>
+  <toggle_window>False</toggle_window>
+  <non_blocking>False</non_blocking>
+  <multidisc>True</multidisc>
+  <roms_base_noext />
+  <audit_state>Audit OFF</audit_state>
+  <audit_auto_dat_file />
+  <audit_custom_dat_file />
+  <audit_display_mode>All ROMs</audit_display_mode>
+  <launcher_display_mode>Flat mode</launcher_display_mode>
+  <num_roms>0</num_roms>
+  <num_parents>0</num_parents>
+  <num_clones>0</num_clones>
+  <num_have>0</num_have>
+  <num_miss>0</num_miss>
+  <num_unknown>0</num_unknown>
+  <num_extra>0</num_extra>
+  <timestamp_launcher>1631351759.243491</timestamp_launcher>
+  <timestamp_report>0.0</timestamp_report>
+  <default_icon>s_icon</default_icon>
+  <default_fanart>s_fanart</default_fanart>
+  <default_banner>s_banner</default_banner>
+  <default_poster>s_poster</default_poster>
+  <default_clearlogo>s_clearlogo</default_clearlogo>
+  <default_controller>s_controller</default_controller>
+  <Asset_Prefix />
+  <s_icon />
+  <s_fanart />
+  <s_banner />
+  <s_poster />
+  <s_clearlogo />
+  <s_controller />
+  <s_trailer />
+  <roms_default_icon>s_boxfront</roms_default_icon>
+  <roms_default_fanart>s_fanart</roms_default_fanart>
+  <roms_default_banner>s_banner</roms_default_banner>
+  <roms_default_poster>s_flyer</roms_default_poster>
+  <roms_default_clearlogo>s_clearlogo</roms_default_clearlogo>
+  <ROM_asset_path />
+  <path_3dbox />
+  <path_title />
+  <path_snap />
+  <path_boxfront />
+  <path_boxback />
+  <path_cartridge />
+  <path_fanart />
+  <path_banner />
+  <path_clearlogo />
+  <path_flyer />
+  <path_map />
+  <path_manual />
+  <path_trailer />
+</launcher>
+<launcher>
+  <id>Prime</id>
+  <m_name>Amazon Prime Video</m_name>
+  <m_year />
+  <m_genre />
+  <m_developer />
+  <m_rating />
+  <m_plot />
+  <platform>Unknown</platform>
+  <categoryID>root_category</categoryID>
+  <application>/usr/bin/firefox</application>
+  <args>--kiosk http://www.primevideo.com</args>
+  <rompath />
+  <romext />
+  <romextrapath />
+  <finished>False</finished>
+  <toggle_window>False</toggle_window>
+  <non_blocking>False</non_blocking>
+  <multidisc>True</multidisc>
+  <roms_base_noext />
+  <audit_state>Audit OFF</audit_state>
+  <audit_auto_dat_file />
+  <audit_custom_dat_file />
+  <audit_display_mode>All ROMs</audit_display_mode>
+  <launcher_display_mode>Flat mode</launcher_display_mode>
+  <num_roms>0</num_roms>
+  <num_parents>0</num_parents>
+  <num_clones>0</num_clones>
+  <num_have>0</num_have>
+  <num_miss>0</num_miss>
+  <num_unknown>0</num_unknown>
+  <num_extra>0</num_extra>
+  <timestamp_launcher>1631351759.243491</timestamp_launcher>
+  <timestamp_report>0.0</timestamp_report>
+  <default_icon>s_icon</default_icon>
+  <default_fanart>s_fanart</default_fanart>
+  <default_banner>s_banner</default_banner>
+  <default_poster>s_poster</default_poster>
+  <default_clearlogo>s_clearlogo</default_clearlogo>
+  <default_controller>s_controller</default_controller>
+  <Asset_Prefix />
+  <s_icon />
+  <s_fanart />
+  <s_banner />
+  <s_poster />
+  <s_clearlogo />
+  <s_controller />
+  <s_trailer />
+  <roms_default_icon>s_boxfront</roms_default_icon>
+  <roms_default_fanart>s_fanart</roms_default_fanart>
+  <roms_default_banner>s_banner</roms_default_banner>
+  <roms_default_poster>s_flyer</roms_default_poster>
+  <roms_default_clearlogo>s_clearlogo</roms_default_clearlogo>
+  <ROM_asset_path />
+  <path_3dbox />
+  <path_title />
+  <path_snap />
+  <path_boxfront />
+  <path_boxback />
+  <path_cartridge />
+  <path_fanart />
+  <path_banner />
+  <path_clearlogo />
+  <path_flyer />
+  <path_map />
+  <path_manual />
+  <path_trailer />
+</launcher>
+<launcher>
+  <id>disney</id>
+  <m_name>Disney+</m_name>
+  <m_year />
+  <m_genre />
+  <m_developer />
+  <m_rating />
+  <m_plot />
+  <platform>Unknown</platform>
+  <categoryID>root_category</categoryID>
+  <application>/usr/bin/firefox</application>
+  <args>--kiosk http://www.disneyplus.com</args>
+  <rompath />
+  <romext />
+  <romextrapath />
+  <finished>False</finished>
+  <toggle_window>False</toggle_window>
+  <non_blocking>False</non_blocking>
+  <multidisc>True</multidisc>
+  <roms_base_noext />
+  <audit_state>Audit OFF</audit_state>
+  <audit_auto_dat_file />
+  <audit_custom_dat_file />
+  <audit_display_mode>All ROMs</audit_display_mode>
+  <launcher_display_mode>Flat mode</launcher_display_mode>
+  <num_roms>0</num_roms>
+  <num_parents>0</num_parents>
+  <num_clones>0</num_clones>
+  <num_have>0</num_have>
+  <num_miss>0</num_miss>
+  <num_unknown>0</num_unknown>
+  <num_extra>0</num_extra>
+  <timestamp_launcher>1631351759.243491</timestamp_launcher>
+  <timestamp_report>0.0</timestamp_report>
+  <default_icon>s_icon</default_icon>
+  <default_fanart>s_fanart</default_fanart>
+  <default_banner>s_banner</default_banner>
+  <default_poster>s_poster</default_poster>
+  <default_clearlogo>s_clearlogo</default_clearlogo>
+  <default_controller>s_controller</default_controller>
+  <Asset_Prefix />
+  <s_icon />
+  <s_fanart />
+  <s_banner />
+  <s_poster />
+  <s_clearlogo />
+  <s_controller />
+  <s_trailer />
+  <roms_default_icon>s_boxfront</roms_default_icon>
+  <roms_default_fanart>s_fanart</roms_default_fanart>
+  <roms_default_banner>s_banner</roms_default_banner>
+  <roms_default_poster>s_flyer</roms_default_poster>
+  <roms_default_clearlogo>s_clearlogo</roms_default_clearlogo>
+  <ROM_asset_path />
+  <path_3dbox />
+  <path_title />
+  <path_snap />
+  <path_boxfront />
+  <path_boxback />
+  <path_cartridge />
+  <path_fanart />
+  <path_banner />
+  <path_clearlogo />
+  <path_flyer />
+  <path_map />
+  <path_manual />
+  <path_trailer />
+</launcher>
+<launcher>
+  <id>binge</id>
+  <m_name>Binge</m_name>
+  <m_year />
+  <m_genre />
+  <m_developer />
+  <m_rating />
+  <m_plot />
+  <platform>Unknown</platform>
+  <categoryID>root_category</categoryID>
+  <application>/usr/bin/firefox</application>
+  <args>--kiosk http://www.binge.com.au</args>
+  <rompath />
+  <romext />
+  <romextrapath />
+  <finished>False</finished>
+  <toggle_window>False</toggle_window>
+  <non_blocking>False</non_blocking>
+  <multidisc>True</multidisc>
+  <roms_base_noext />
+  <audit_state>Audit OFF</audit_state>
+  <audit_auto_dat_file />
+  <audit_custom_dat_file />
+  <audit_display_mode>All ROMs</audit_display_mode>
+  <launcher_display_mode>Flat mode</launcher_display_mode>
+  <num_roms>0</num_roms>
+  <num_parents>0</num_parents>
+  <num_clones>0</num_clones>
+  <num_have>0</num_have>
+  <num_miss>0</num_miss>
+  <num_unknown>0</num_unknown>
+  <num_extra>0</num_extra>
+  <timestamp_launcher>1631351759.243491</timestamp_launcher>
+  <timestamp_report>0.0</timestamp_report>
+  <default_icon>s_icon</default_icon>
+  <default_fanart>s_fanart</default_fanart>
+  <default_banner>s_banner</default_banner>
+  <default_poster>s_poster</default_poster>
+  <default_clearlogo>s_clearlogo</default_clearlogo>
+  <default_controller>s_controller</default_controller>
+  <Asset_Prefix />
+  <s_icon />
+  <s_fanart />
+  <s_banner />
+  <s_poster />
+  <s_clearlogo />
+  <s_controller />
+  <s_trailer />
+  <roms_default_icon>s_boxfront</roms_default_icon>
+  <roms_default_fanart>s_fanart</roms_default_fanart>
+  <roms_default_banner>s_banner</roms_default_banner>
+  <roms_default_poster>s_flyer</roms_default_poster>
+  <roms_default_clearlogo>s_clearlogo</roms_default_clearlogo>
+  <ROM_asset_path />
+  <path_3dbox />
+  <path_title />
+  <path_snap />
+  <path_boxfront />
+  <path_boxback />
+  <path_cartridge />
+  <path_fanart />
+  <path_banner />
+  <path_clearlogo />
+  <path_flyer />
+  <path_map />
+  <path_manual />
+  <path_trailer />
+</launcher>
+<launcher>
+  <id>sbsondemand</id>
+  <m_name>SBS On Demand</m_name>
+  <m_year />
+  <m_genre />
+  <m_developer />
+  <m_rating />
+  <m_plot />
+  <platform>Unknown</platform>
+  <categoryID>root_category</categoryID>
+  <application>/usr/bin/firefox</application>
+  <args>--kiosk http://www.sbs.com.au/ondemand</args>
+  <rompath />
+  <romext />
+  <romextrapath />
+  <finished>False</finished>
+  <toggle_window>False</toggle_window>
+  <non_blocking>False</non_blocking>
+  <multidisc>True</multidisc>
+  <roms_base_noext />
+  <audit_state>Audit OFF</audit_state>
+  <audit_auto_dat_file />
+  <audit_custom_dat_file />
+  <audit_display_mode>All ROMs</audit_display_mode>
+  <launcher_display_mode>Flat mode</launcher_display_mode>
+  <num_roms>0</num_roms>
+  <num_parents>0</num_parents>
+  <num_clones>0</num_clones>
+  <num_have>0</num_have>
+  <num_miss>0</num_miss>
+  <num_unknown>0</num_unknown>
+  <num_extra>0</num_extra>
+  <timestamp_launcher>1631351759.243491</timestamp_launcher>
+  <timestamp_report>0.0</timestamp_report>
+  <default_icon>s_icon</default_icon>
+  <default_fanart>s_fanart</default_fanart>
+  <default_banner>s_banner</default_banner>
+  <default_poster>s_poster</default_poster>
+  <default_clearlogo>s_clearlogo</default_clearlogo>
+  <default_controller>s_controller</default_controller>
+  <Asset_Prefix />
+  <s_icon />
+  <s_fanart />
+  <s_banner />
+  <s_poster />
+  <s_clearlogo />
+  <s_controller />
+  <s_trailer />
+  <roms_default_icon>s_boxfront</roms_default_icon>
+  <roms_default_fanart>s_fanart</roms_default_fanart>
+  <roms_default_banner>s_banner</roms_default_banner>
+  <roms_default_poster>s_flyer</roms_default_poster>
+  <roms_default_clearlogo>s_clearlogo</roms_default_clearlogo>
+  <ROM_asset_path />
+  <path_3dbox />
+  <path_title />
+  <path_snap />
+  <path_boxfront />
+  <path_boxback />
+  <path_cartridge />
+  <path_fanart />
+  <path_banner />
+  <path_clearlogo />
+  <path_flyer />
+  <path_map />
+  <path_manual />
+  <path_trailer />
+</launcher>
+<launcher>
+  <id>iview</id>
+  <m_name>iView</m_name>
+  <m_year />
+  <m_genre />
+  <m_developer />
+  <m_rating />
+  <m_plot />
+  <platform>Unknown</platform>
+  <categoryID>root_category</categoryID>
+  <application>/usr/bin/firefox</application>
+  <args>--kiosk http://iview.abc.net.au</args>
+  <rompath />
+  <romext />
+  <romextrapath />
+  <finished>False</finished>
+  <toggle_window>False</toggle_window>
+  <non_blocking>False</non_blocking>
+  <multidisc>True</multidisc>
+  <roms_base_noext />
+  <audit_state>Audit OFF</audit_state>
+  <audit_auto_dat_file />
+  <audit_custom_dat_file />
+  <audit_display_mode>All ROMs</audit_display_mode>
+  <launcher_display_mode>Flat mode</launcher_display_mode>
+  <num_roms>0</num_roms>
+  <num_parents>0</num_parents>
+  <num_clones>0</num_clones>
+  <num_have>0</num_have>
+  <num_miss>0</num_miss>
+  <num_unknown>0</num_unknown>
+  <num_extra>0</num_extra>
+  <timestamp_launcher>1631351759.243491</timestamp_launcher>
+  <timestamp_report>0.0</timestamp_report>
+  <default_icon>s_icon</default_icon>
+  <default_fanart>s_fanart</default_fanart>
+  <default_banner>s_banner</default_banner>
+  <default_poster>s_poster</default_poster>
+  <default_clearlogo>s_clearlogo</default_clearlogo>
+  <default_controller>s_controller</default_controller>
+  <Asset_Prefix />
+  <s_icon />
+  <s_fanart />
+  <s_banner />
+  <s_poster />
+  <s_clearlogo />
+  <s_controller />
+  <s_trailer />
+  <roms_default_icon>s_boxfront</roms_default_icon>
+  <roms_default_fanart>s_fanart</roms_default_fanart>
+  <roms_default_banner>s_banner</roms_default_banner>
+  <roms_default_poster>s_flyer</roms_default_poster>
+  <roms_default_clearlogo>s_clearlogo</roms_default_clearlogo>
+  <ROM_asset_path />
+  <path_3dbox />
+  <path_title />
+  <path_snap />
+  <path_boxfront />
+  <path_boxback />
+  <path_cartridge />
+  <path_fanart />
+  <path_banner />
+  <path_clearlogo />
+  <path_flyer />
+  <path_map />
+  <path_manual />
+  <path_trailer />
+</launcher>
+<launcher>
+  <id>paramountplus</id>
+  <m_name>Paramount+</m_name>
+  <m_year />
+  <m_genre />
+  <m_developer />
+  <m_rating />
+  <m_plot />
+  <platform>Unknown</platform>
+  <categoryID>root_category</categoryID>
+  <application>/usr/bin/firefox</application>
+  <args>--kiosk http://www.paramountplus.com</args>
+  <rompath />
+  <romext />
+  <romextrapath />
+  <finished>False</finished>
+  <toggle_window>False</toggle_window>
+  <non_blocking>False</non_blocking>
+  <multidisc>True</multidisc>
+  <roms_base_noext />
+  <audit_state>Audit OFF</audit_state>
+  <audit_auto_dat_file />
+  <audit_custom_dat_file />
+  <audit_display_mode>All ROMs</audit_display_mode>
+  <launcher_display_mode>Flat mode</launcher_display_mode>
+  <num_roms>0</num_roms>
+  <num_parents>0</num_parents>
+  <num_clones>0</num_clones>
+  <num_have>0</num_have>
+  <num_miss>0</num_miss>
+  <num_unknown>0</num_unknown>
+  <num_extra>0</num_extra>
+  <timestamp_launcher>1631351759.243491</timestamp_launcher>
+  <timestamp_report>0.0</timestamp_report>
+  <default_icon>s_icon</default_icon>
+  <default_fanart>s_fanart</default_fanart>
+  <default_banner>s_banner</default_banner>
+  <default_poster>s_poster</default_poster>
+  <default_clearlogo>s_clearlogo</default_clearlogo>
+  <default_controller>s_controller</default_controller>
+  <Asset_Prefix />
+  <s_icon />
+  <s_fanart />
+  <s_banner />
+  <s_poster />
+  <s_clearlogo />
+  <s_controller />
+  <s_trailer />
+  <roms_default_icon>s_boxfront</roms_default_icon>
+  <roms_default_fanart>s_fanart</roms_default_fanart>
+  <roms_default_banner>s_banner</roms_default_banner>
+  <roms_default_poster>s_flyer</roms_default_poster>
+  <roms_default_clearlogo>s_clearlogo</roms_default_clearlogo>
+  <ROM_asset_path />
+  <path_3dbox />
+  <path_title />
+  <path_snap />
+  <path_boxfront />
+  <path_boxback />
+  <path_cartridge />
+  <path_fanart />
+  <path_banner />
+  <path_clearlogo />
+  <path_flyer />
+  <path_map />
+  <path_manual />
+  <path_trailer />
+</launcher>
+</advanced_emulator_launcher>

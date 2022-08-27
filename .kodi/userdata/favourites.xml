@@ -1,0 +1,11 @@
+<favourites>
+    <favourite name="Netflix [COLOR chocolate](Std)[/COLOR]">PlayMedia(&quot;plugin://plugin.program.AEL.dev/?com=LAUNCH_STANDALONE&amp;catID=root_category&amp;launID=Netflix&quot;)</favourite>
+    <favourite name="SBS On Demand [COLOR chocolate](Std)[/COLOR]">PlayMedia(&quot;plugin://plugin.program.AEL.dev/?com=LAUNCH_STANDALONE&amp;catID=root_category&amp;launID=sbsondemand&quot;)</favourite>
+    <favourite name="iView [COLOR chocolate](Std)[/COLOR]">PlayMedia(&quot;plugin://plugin.program.AEL.dev/?com=LAUNCH_STANDALONE&amp;catID=root_category&amp;launID=iview&quot;)</favourite>
+    <favourite name="Disney+ [COLOR chocolate](Std)[/COLOR]">PlayMedia(&quot;plugin://plugin.program.AEL.dev/?com=LAUNCH_STANDALONE&amp;catID=root_category&amp;launID=disney&quot;)</favourite>
+    <favourite name="Binge [COLOR chocolate](Std)[/COLOR]">PlayMedia(&quot;plugin://plugin.program.AEL.dev/?com=LAUNCH_STANDALONE&amp;catID=root_category&amp;launID=binge&quot;)</favourite>
+    <favourite name="Amazon Prime Video [COLOR chocolate](Std)[/COLOR]">PlayMedia(&quot;plugin://plugin.program.AEL.dev/?com=LAUNCH_STANDALONE&amp;catID=root_category&amp;launID=Prime&quot;)</favourite>
+    <favourite name="Firefox [COLOR chocolate](Std)[/COLOR]">PlayMedia(&quot;plugin://plugin.program.AEL.dev/?com=LAUNCH_STANDALONE&amp;catID=root_category&amp;launID=Firefox&quot;)</favourite>
+    <favourite name="Paramount+ [COLOR chocolate](Std)[/COLOR]">PlayMedia(&quot;plugin://plugin.program.AEL.dev/?com=LAUNCH_STANDALONE&amp;catID=root_category&amp;launID=paramountplus&quot;)</favourite>
+    <favourite name="Apple TV [COLOR chocolate](Std)[/COLOR]">PlayMedia(&quot;plugin://plugin.program.AEL.dev/?com=LAUNCH_STANDALONE&amp;catID=root_category&amp;launID=appletv&quot;)</favourite>
+</favourites>
