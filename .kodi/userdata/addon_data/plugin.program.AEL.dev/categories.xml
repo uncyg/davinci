@@ -81,8 +81,8 @@
   <m_plot />
   <platform>Unknown</platform>
   <categoryID>root_category</categoryID>
-  <application>/usr/bin/firefox</application>
-  <args>--kiosk http://www.netflix.com</args>
+  <application>/home/leonardo/davinci/bin/suspend-parent-and-spawn.sh</application>
+  <args>/usr/bin/firefox --kiosk http://www.netflix.com</args>
   <rompath />
   <romext />
   <romextrapath />
@@ -149,8 +149,8 @@
   <m_plot />
   <platform>Unknown</platform>
   <categoryID>root_category</categoryID>
-  <application>/usr/bin/firefox</application>
-  <args>--kiosk http://tv.apple.com</args>
+  <application>/home/leonardo/davinci/bin/suspend-parent-and-spawn.sh</application>
+  <args>/usr/bin/firefox --kiosk http://tv.apple.com</args>
   <rompath />
   <romext />
   <romextrapath />
@@ -217,8 +217,8 @@
   <m_plot />
   <platform>Unknown</platform>
   <categoryID>root_category</categoryID>
-  <application>/usr/bin/firefox</application>
-  <args>--kiosk http://www.primevideo.com</args>
+  <application>/home/leonardo/davinci/bin/suspend-parent-and-spawn.sh</application>
+  <args>/usr/bin/firefox --kiosk http://www.primevideo.com</args>
   <rompath />
   <romext />
   <romextrapath />
@@ -285,8 +285,8 @@
   <m_plot />
   <platform>Unknown</platform>
   <categoryID>root_category</categoryID>
-  <application>/usr/bin/firefox</application>
-  <args>--kiosk http://www.disneyplus.com</args>
+  <application>/home/leonardo/davinci/bin/suspend-parent-and-spawn.sh</application>
+  <args>/usr/bin/firefox --kiosk http://www.disneyplus.com</args>
   <rompath />
   <romext />
   <romextrapath />
@@ -353,8 +353,8 @@
   <m_plot />
   <platform>Unknown</platform>
   <categoryID>root_category</categoryID>
-  <application>/usr/bin/firefox</application>
-  <args>--kiosk http://www.binge.com.au</args>
+  <application>/home/leonardo/davinci/bin/suspend-parent-and-spawn.sh</application>
+  <args>/usr/bin/firefox --kiosk http://www.binge.com.au</args>
   <rompath />
   <romext />
   <romextrapath />
@@ -421,8 +421,8 @@
   <m_plot />
   <platform>Unknown</platform>
   <categoryID>root_category</categoryID>
-  <application>/usr/bin/firefox</application>
-  <args>--kiosk http://www.sbs.com.au/ondemand</args>
+  <application>/home/leonardo/davinci/bin/suspend-parent-and-spawn.sh</application>
+  <args>/usr/bin/firefox --kiosk http://www.sbs.com.au/ondemand</args>
   <rompath />
   <romext />
   <romextrapath />
@@ -489,8 +489,8 @@
   <m_plot />
   <platform>Unknown</platform>
   <categoryID>root_category</categoryID>
-  <application>/usr/bin/firefox</application>
-  <args>--kiosk http://iview.abc.net.au</args>
+  <application>/home/leonardo/davinci/bin/suspend-parent-and-spawn.sh</application>
+  <args>/usr/bin/firefox --kiosk http://iview.abc.net.au</args>
   <rompath />
   <romext />
   <romextrapath />
@@ -557,8 +557,8 @@
   <m_plot />
   <platform>Unknown</platform>
   <categoryID>root_category</categoryID>
-  <application>/usr/bin/firefox</application>
-  <args>--kiosk http://www.paramountplus.com</args>
+  <application>/home/leonardo/davinci/bin/suspend-parent-and-spawn.sh</application>
+  <args>/usr/bin/firefox --kiosk http://www.paramountplus.com</args>
   <rompath />
   <romext />
   <romextrapath />
